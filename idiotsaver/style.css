@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-image: url("you-are-idiot.gif")
+}
+.rotate {
+  animation: rotation 1.5s infinite linear;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
