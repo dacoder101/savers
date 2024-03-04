@@ -1,9 +1,7 @@
-html {
+html, body {
     min-height: 100%;
     background-image: url("holmes.jpeg");
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
 }
 
 .rotate {
