@@ -4,7 +4,6 @@ body {
     width: 100%;
     text-align: center;
     background-image: url("holmes.jpeg");
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
