@@ -28,7 +28,7 @@ async function updateContainer() {
 
         if (randomChance(0.5)) {
             const text = document.createElement("h1");
-            text.textContent = "eric im gonna beat ur gass without the g";
+            text.textContent = "har har";
             text.style.position = "absolute";
             text.style.left = `${Math.floor(Math.random() * 100)}%`;
             text.style.top = `${Math.floor(Math.random() * 100)}%`;
